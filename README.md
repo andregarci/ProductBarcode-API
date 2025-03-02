@@ -34,7 +34,7 @@ Una API REST para gestionar productos y generar códigos de barras asociados a e
 4.  **Ejecutar la aplicación:**
 
     ```bash
-    npm start
+    node app.js
     ```
 
     La API estará disponible en `http://localhost:3000`.
